@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there my name is jesse
+![](https://komarev.com/ghpvc/?username=jesse-van-vliet&color=red)
 
 <!--
 **Jesse-van-Vliet/jesse-van-vliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
