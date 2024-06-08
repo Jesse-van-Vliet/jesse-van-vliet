@@ -1,8 +1,10 @@
-## Jesse van Vliet
-![](https://komarev.com/ghpvc/?username=jesse-van-vliet&color=red)
+## Jesse van Vliet :man_student:
 
+<P>Hey My name is Jesse, Currently I am studying software development</P>
+<br>
+
+ ## Current Skills
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,js,react,css,html,tailwind " />
   </a>
 </p>
