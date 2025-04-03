@@ -1,6 +1,6 @@
 ## Jesse van Vliet :man_student:
 
-<P>Hey my name is Jesse, Currently I am studying software development</P>
+<P>Hey my name is Jesse, I am fullstack developerP>
 <br>
 
  ## Current Skills
